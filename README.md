@@ -1,0 +1,3 @@
+##Notessa
+
+A simple To-Do Django app to make a list of things for daily activities and so ...
